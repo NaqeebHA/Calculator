@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=numbersList\ operatorsList
+comment1.target=double\ calculateEquation(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getNumberList()
+comment3.params=
+comment3.target=java.util.ArrayList\ getOperatorList()
+numComments=4

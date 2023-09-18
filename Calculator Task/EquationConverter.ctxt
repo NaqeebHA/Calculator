@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EquationConverter
+comment1.params=
+comment1.target=EquationConverter()
+comment2.params=equationString
+comment2.target=void\ setEverything(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getEquationList()
+comment4.params=
+comment4.target=void\ setNumbersList()
+comment5.params=
+comment5.target=void\ setOperatorsList()
+comment6.params=
+comment6.target=java.util.ArrayList\ getNumbersList()
+comment7.params=
+comment7.target=java.util.ArrayList\ getOperatorsList()
+numComments=8

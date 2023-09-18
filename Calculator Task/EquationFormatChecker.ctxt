@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EquationFormatChecker
+comment1.params=numbers\ operators
+comment1.target=boolean\ checkValidity(java.util.ArrayList,\ java.util.ArrayList)
+numComments=2
